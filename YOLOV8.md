@@ -104,3 +104,6 @@ for r in results:
 
 # What's New
 
+##### Oct 15, 2024: 
+
+增加 ./yolov11 
